@@ -1,0 +1,218 @@
+i:1  j:1
+time cost: 208.31 secs
+i:1  j:2
+time cost: 198.28 secs
+i:1  j:3
+time cost: 195.93 secs
+i:1  j:4
+time cost: 183.07 secs
+i:1  j:5
+time cost: 168.22 secs
+i:1  j:6
+time cost: 157.91 secs
+i:2  j:1
+time cost: 278.75 secs
+i:2  j:2
+time cost: 278.10 secs
+i:2  j:3
+time cost: 241.09 secs
+i:2  j:4
+time cost: 166.79 secs
+i:2  j:5
+time cost: 140.93 secs
+i:2  j:6
+time cost: 126.23 secs
+i:3  j:1
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('extractColor', 'C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extractColor.m', 73)" style="font-weight:bold">extractColor</a> (<a href="matlab: opentoline('C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extractColor.m',73,0)">line 73</a>)
+            if f_i>1 && norm(tempLine(1:2)-line(1:2)) ~= 0
+} 
+opentoline('C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extractColor.m',73,0)
+tempLine(1:2)
+
+ans =
+
+  412.9909  253.8073
+
+tempLine(1:2) - line(1:2)
+
+ans =
+
+     0     0
+
+norm(tempLine(1:2) - line(1:2))
+
+ans =
+
+     0
+
+norm(5)
+
+ans =
+
+     5
+
+norm([1 2 34 ])
+
+ans =
+
+   34.0735
+
+norm([1:5])
+
+ans =
+
+    7.4162
+
+norm([1:5 1:5])
+
+ans =
+
+   10.4881
+
+norm([0 0 00 0 0 0 00 0])
+
+ans =
+
+     0
+
+000
+
+ans =
+
+     0
+
+0
+
+ans =
+
+     0
+
+opentoline('C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extractColor.m',73,0)
+opentoline('C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extractColor.m',73,0)
+size(f_color, 2)
+
+ans =
+
+     0
+
+{Index exceeds matrix dimensions.
+} 
+Lname(3)
+
+ans =
+
+  <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a>
+
+    'boat'
+
+{Undefined function 'show' for input arguments of type 'uint8'.
+} 
+size(im1_org,3)
+
+ans =
+
+     1
+
+extractColor
+i:1  j:1
+<a href="matlab: opentoline('C:\Users\epawech\Desktop\WidzenieKomputerowe\git\ASV\Oxford\extract.m',14,1)">14  </a>end
+if system_dependent('IsDebugMode')==1, dbquit; end
+extractColor
+i:1  j:1
+time cost: 145.31 secs
+i:1  j:2
+time cost: 138.61 secs
+i:1  j:3
+time cost: 142.07 secs
+i:1  j:4
+time cost: 122.42 secs
+i:1  j:5
+time cost: 124.86 secs
+i:1  j:6
+time cost: 110.18 secs
+i:2  j:1
+time cost: 194.17 secs
+i:2  j:2
+time cost: 190.83 secs
+i:2  j:3
+time cost: 144.21 secs
+i:2  j:4
+time cost: 95.53 secs
+i:2  j:5
+time cost: 79.47 secs
+i:2  j:6
+time cost: 70.50 secs
+i:3  j:1
+time cost: 11.94 secs
+i:3  j:2
+time cost: 11.49 secs
+i:3  j:3
+time cost: 11.84 secs
+i:3  j:4
+time cost: 11.95 secs
+i:3  j:5
+time cost: 11.62 secs
+i:3  j:6
+time cost: 11.74 secs
+i:4  j:1
+time cost: 76.99 secs
+i:4  j:2
+time cost: 81.37 secs
+i:4  j:3
+time cost: 87.41 secs
+i:4  j:4
+time cost: 94.25 secs
+i:4  j:5
+time cost: 88.29 secs
+i:4  j:6
+time cost: 96.27 secs
+i:5  j:1
+time cost: 82.21 secs
+i:5  j:2
+time cost: 80.54 secs
+i:5  j:3
+time cost: 83.08 secs
+i:5  j:4
+time cost: 77.73 secs
+i:5  j:5
+time cost: 74.66 secs
+i:5  j:6
+time cost: 72.28 secs
+i:6  j:1
+time cost: 216.93 secs
+i:6  j:2
+time cost: 182.77 secs
+i:6  j:3
+time cost: 327.78 secs
+i:6  j:4
+time cost: 271.74 secs
+i:6  j:5
+time cost: 159.43 secs
+i:6  j:6
+time cost: 129.36 secs
+i:7  j:1
+time cost: 91.66 secs
+i:7  j:2
+time cost: 124.44 secs
+i:7  j:3
+time cost: 134.34 secs
+i:7  j:4
+time cost: 121.84 secs
+i:7  j:5
+time cost: 81.16 secs
+i:7  j:6
+time cost: 50.08 secs
+i:8  j:1
+time cost: 212.85 secs
+i:8  j:2
+time cost: 213.23 secs
+i:8  j:3
+time cost: 209.87 secs
+i:8  j:4
+time cost: 194.99 secs
+i:8  j:5
+time cost: 204.70 secs
+i:8  j:6
+time cost: 204.72 secs
